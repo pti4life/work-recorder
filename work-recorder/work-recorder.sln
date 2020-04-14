@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "work-recorder", "work-recorder\work-recorder.csproj", "{6AEA97B1-C6F5-449F-ABB1-BDCF79AA89E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "work-recorder-test", "..\work-recorder-test\work-recorder-test\work-recorder-test.csproj", "{E26FB6FB-FACC-4A58-AC90-F7DB0CFDD40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEA97B1-C6F5-449F-ABB1-BDCF79AA89E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEA97B1-C6F5-449F-ABB1-BDCF79AA89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEA97B1-C6F5-449F-ABB1-BDCF79AA89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEA97B1-C6F5-449F-ABB1-BDCF79AA89E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26FB6FB-FACC-4A58-AC90-F7DB0CFDD40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26FB6FB-FACC-4A58-AC90-F7DB0CFDD40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26FB6FB-FACC-4A58-AC90-F7DB0CFDD40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26FB6FB-FACC-4A58-AC90-F7DB0CFDD40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C333B68E-4CE9-45CA-A9E3-528FF898697C}
+	EndGlobalSection
+EndGlobal

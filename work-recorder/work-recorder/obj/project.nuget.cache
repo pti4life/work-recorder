@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsU4R1TFwD4xGv1lzjXBojlMmATf61hoD4Awq8ub0+VfRpRk8CuI4hTCWRgsOgH94j86bE1z4WPGMkEHUuezhw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\work-recorder\\work-recorder\\work-recorder\\work-recorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pti4life\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
